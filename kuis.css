@@ -8,8 +8,10 @@ body{
 
 th{
     background-color: wheat;
+    border-radius: 5px;
 }
 
 td{
     background-color: whitesmoke;
+    border-radius: 10px;
 }
