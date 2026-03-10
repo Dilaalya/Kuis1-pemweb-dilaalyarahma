@@ -1,0 +1,15 @@
+body{
+    font-family: monospace;
+    background-color: cornsilk;
+    margin:auto;
+    width:fit-content;
+    text-align: center;
+}
+
+th{
+    background-color: wheat;
+}
+
+td{
+    background-color: whitesmoke;
+}
